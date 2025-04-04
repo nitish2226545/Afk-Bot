@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "nitishsingh6203.aternos.me:",
+    "port": 26577,
     "version": "1.19.3"
   },
 
